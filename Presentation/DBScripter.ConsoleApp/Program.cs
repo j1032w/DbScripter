@@ -21,7 +21,7 @@ using CommonLibrary;
 using DBScripter.CompositionRoot;
 using DBScripter.ConsoleApp.Properties;
 using DBScripter.Service;
-using Microsoft.Practices.Unity;
+using Unity;
 
 namespace DBScripter.ConsoleApp
 {

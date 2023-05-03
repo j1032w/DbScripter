@@ -2,7 +2,8 @@
 using DBScripter.Service;
 using DBScripter.Service.Command;
 using DBScripter.Service.Factory;
-using Microsoft.Practices.Unity;
+using Unity;
+using Unity.Extension;
 
 namespace DBScripter.CompositionRoot
 {
