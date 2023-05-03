@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<RefData version="1.0" exporter="EA.25">
+	<DataSet name="Package Build Scripts" table="t_script" filter="ScriptName='#ScriptName#' and ScriptAuthor='#ScriptAuthor#'" stoplist=";ScriptID;">
+		<DataRow>
+			<Column name="ScriptID" value="1"/>
+			<Column name="ScriptCategory" value="EACompileScript"/>
+			<Column name="ScriptName" value="Model.Class Model.DBScripter"/>
+			<Column name="ScriptAuthor" value="{F8FBA69C-E515-46cf-BB55-6A05C98DA7D3}"/>
+			<Column name="Notes" value="&lt;?xml version=&quot;1.0&quot;?&gt;&#xA;&lt;DATA&gt;&lt;Debugger value=&quot;Microsoft .NET&quot;/&gt;&lt;DebugDir value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\&quot;/&gt;&lt;InitialDir value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\&quot;/&gt;&lt;Attach value=&quot;false&quot;/&gt;&lt;Debug value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\DBScripterCmd.exe localhost sa test AdventureWorks2008R2 &amp;quot;d:\output02&amp;quot;&quot;/&gt;&lt;DebugClass value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\DBScripterCmd.exe localhost sa test AdventureWorks2008R2 &amp;quot;d:\output02&amp;quot;&quot;/&gt;&lt;ShowConsole value=&quot;true&quot;/&gt;&lt;DebugDepends value=&quot;false&quot;/&gt;&lt;Diagnostics value=&quot;false&quot;/&gt;&lt;Symbols value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\DBScripterCmd.exe&quot;/&gt;&lt;Workbench value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\DBScripterCmd.exe&quot;/&gt;&lt;RunCmdType value=&quot;Batch File&quot;/&gt;&lt;Run value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\DBScripterCmd.exe&quot;/&gt;&lt;RunCommand value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\DBScripterCmd.exe&quot;/&gt;&lt;RunDir value=&quot;e:\Work.Folder\projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\bin\Debug\&quot;/&gt;&lt;RunParser value=&quot;&amp;lt;none&amp;gt;&quot;/&gt;&lt;RunDepends value=&quot;false&quot;/&gt;&lt;/DATA&gt;&#xA;"/>
+			<Column name="Script" value=" "/>
+		</DataRow>
+	</DataSet>
+</RefData>

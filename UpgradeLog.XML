@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SQLScripter">
+</Property><Property Name="Solution File" Value="E:\Work.Folder\projects\SQLScripter\SQLScripter.sln">
+</Property><Property Name="Date" Value="Monday, April 16, 2012">
+</Property><Property Name="Time" Value="16:03 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SQLScripter" Source="SQLScripter\SQLScripter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SQLScripter" Source="SQLScripter\SQLScripter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SQLScripter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SQLScripter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SQLScripter" Source="SQLScripter\SQLScripter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

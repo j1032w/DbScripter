@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>d:\ljr\My Projects\DBScripterCmd\Presentation\DBScripter.ConsoleApp\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\ljr\my projects\dbscriptercmd\libraries\dbscripter.service\scriptercontroller.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\ljr\my projects\dbscriptercmd\libraries\dbscripter.service\factory\scripterconfigfactoryhandler.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\ljr\my projects\dbscriptercmd\libraries\dbscripter.domain\scripterconfig.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\ljr\my projects\dbscriptercmd\libraries\dbscripter.service\command\scriptdatabasecommand.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\ljr\my projects\dbscriptercmd\libraries\dbscripter.service\command\scriptdatabasecommandhandler.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
